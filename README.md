@@ -1,6 +1,6 @@
 # MyReads Project
 
-This is the submited project based on the [starter template] (https://github.com/udacity/reactnd-project-myreads-starter) provided by Udacity for the final assessment project for Udacity's React Fundamentals course.
+This is the submited project based on the [starter template](https://github.com/udacity/reactnd-project-myreads-starter) provided by Udacity for the final assessment project for Udacity's React Fundamentals course.
 
 ## App Functionality
 
